@@ -11,7 +11,7 @@ Il sistema combina l’estrazione di clip salienti (UniVTG) con modelli di gener
 - `presentazione.pdf` — Slide finali
 - `Notebook_Colab_UniVTG.ipynb` — Notebook per l’estrazione automatica delle clip salienti
 - `cli.py` — File modificato da `videollava/serve/cli.py` per l'inferenza batch
-- `outputs/` — Esempi di output generati (JSON, TXT, immagini)
+- `outputs/` — Esempi di output generati (JSON, TXT) e ground trouth
 
 ---
 
