@@ -1,0 +1,95 @@
+Clip: clip_00.mp4
+Domanda 1: Un uomo tiene un fucile davanti a un cartello, con varie inquadrature ravvicinate; alla fine è seduto a un tavolo con un laptop e poi si mostrano schermate con sfondo nero e testo rosso.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Informazione non disponibile.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: In un frame si vede un fucile con una torcia montata sopra.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Viene menzionato Rock Island e la possibilità di fare offerte online o all’asta, ma non c’è confronto diretto con altri fucili.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_01.mp4
+Domanda 1: Una persona mostra un fucile con varie angolazioni, evidenziando la rimozione degli elementi interni del mirino posteriore.
+Domanda 2: Viene nominato un “vanilla yeast” (probabilmente un modello specifico, ma non chiaro esatto modello).
+Domanda 3: Si menziona la rimozione delle parti interne del mirino posteriore, suggerendo la necessità di pezzi di ricambio o l’uso di un mirino ottico.
+Domanda 4: No, non viene mostrato il funzionamento pratico, solo la condizione del mirino.
+Domanda 5: Non ci sono commenti espliciti sulle prestazioni, solo un suggerimento pratico relativo al mirino.
+Domanda 6: Viene menzionato il mirino ottico come possibile accessorio da montare.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Non esplicito, ma si evidenzia come manchino parti nel mirino.
+
+Clip: clip_02.mp4
+Domanda 1: Un uomo mostra come rimuovere il bullone di un fucile, spiegando il meccanismo e le operazioni per smontarlo.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Sì, si parla del bullone con un “cutout” che permette di estrarre il bullone stesso.
+Domanda 4: Sì, viene spiegato e mostrato il meccanismo pratico di smontaggio del bullone.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_03.mp4
+Domanda 1: Un uomo in camicia blu tiene un fucile e parla del mercato e delle caratteristiche tecniche destinate a un pubblico sportivo.
+Domanda 2: Viene menzionata la marca Benelli.
+Domanda 3: Sì, si parla di opzioni per dispositivi di volata (muzzle device), la presenza di mire “civilianizzate”, e l’assenza di un sistema completo di rotaie (rails) su tutto il ricevitore.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Sì, si suggerisce che il fucile è destinato al mercato sportivo più che militare, e viene definito “lucrativo” per questo settore.
+Domanda 6: Vengono citati dispositivi di volata e mire come caratteristiche/modifiche.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Viene fatto un confronto implicito con modelli militari o tattici, indicando che questo modello è più “civilianizzato”.
+Domanda 9: Sì, uso sportivo/sportivo-tattico più che militare.
+Domanda 10: No commenti espliciti su pregi e difetti, ma si suggerisce un posizionamento di mercato.
+
+Clip: clip_04.mp4
+Domanda 1: Un uomo mostra un fucile con diverse angolazioni, si fa cenno a caratteristiche tecniche come il bullone triangolare a tre perni e un paragone con altri modelli come il Leader T2 e Barrett M82.
+Domanda 2: Non viene indicato un modello preciso, ma si parla di armi come Leader T2 e Barrett M82 in paragone.
+Domanda 3: Sì, si descrive il bullone rotante triangolare a tre perni, vantaggi di facile lavorabilità e pulizia.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Si evidenzia interesse per la facilità di manutenzione e pulizia, considerato un punto positivo.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Sì, confronto con Leader T2 e Barrett M82.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Viene evidenziato come il design sia insolito per un “black rifle” ma con vantaggi tecnici.
+
+Clip: clip_05.mp4
+Domanda 1: Una persona mostra caratteristiche di sicurezza e di meccanismo di rilascio del bullone e del caricatore di un fucile.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Sì, si menziona la sicurezza a “cross bolt”, la posizione insolita della leva di rilascio del bullone davanti alla guardia del grilletto, e il rilascio del caricatore ambidestro.
+Domanda 4: Sì, si descrive il funzionamento pratico del rilascio del bullone e del caricatore.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_06.mp4
+Domanda 1: Informazione incompleta, ma si vede una persona che usa un trapano per rimuovere un componente, e si mostrano piccoli dispositivi metallici.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Informazione non disponibile.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: Totale Video
+Domanda 1: Nel video complessivamente, vengono mostrati vari fucili tenuti in mano da uomini che ne descrivono caratteristiche tecniche, meccanismi di funzionamento, e condizioni di alcuni componenti, con focus su dettagli tecnici come bulloni, mire, sicurezza e accessori.
+Domanda 2: Vengono menzionati vari modelli o riferimenti: Benelli, Leader T2, Barrett M82, e un modello chiamato “vanilla yeast” (modello non chiaro).
+Domanda 3: Sì, sono descritti dettagli tecnici come bullone rotante triangolare a tre perni, rimozione del bullone tramite cutout, sicurezza a cross bolt, assenza di parti interne di mirino, e dispositivi di volata.
+Domanda 4: Viene mostrato il funzionamento pratico principalmente dello smontaggio del bullone e del rilascio del caricatore e del bullone.
+Domanda 5: Ci sono commenti sulle caratteristiche tecniche e di mercato, con un’attenzione ai vantaggi di manutenzione e alla destinazione d’uso sportiva.
+Domanda 6: Sono menzionati accessori come mirini ottici, dispositivi di volata, torce montate e modifiche ai mirini.
+Domanda 7: Non vengono mostrati test di tiro o prove pratiche di sparo.
+Domanda 8: Sì, ci sono confronti con altri modelli come Leader T2 e Barrett M82 e accenni a differenze rispetto ai modelli militari.
+Domanda 9: L’uso previsto è perlopiù sportivo, con alcune menzioni al mercato civile e sportivo piuttosto che militare o tattico.
+Domanda 10: Vengono accennati pregi legati alla facilità di manutenzione e pulizia, e qualche difetto come la mancanza di parti nel mirino posteriore.

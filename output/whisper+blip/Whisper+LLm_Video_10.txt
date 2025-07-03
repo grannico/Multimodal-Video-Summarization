@@ -1,0 +1,95 @@
+Clip: clip_00.mp4
+Domanda 1: Un uomo tiene in mano un fucile e parla della sua azione molto fluida e funzionamento impeccabile.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Viene menzionata l'azione molto fluida e che il funzionamento è impeccabile.
+Domanda 4: Si parla del blocco del caricatore ("lock it back") e della facilità di mandare avanti l'otturatore.
+Domanda 5: Sì, viene detto che l'azione è molto fluida e che il funzionamento è impeccabile, con una buona sensazione al tatto.
+Domanda 6: Non specificato, ma si parla di un fucile semi-automatico conveniente.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Viene accennato che è un semi-automatico conveniente, probabilmente per uso generale, ma non specificato.
+Domanda 10: Si evidenzia la fluidità e il funzionamento senza problemi come aspetti positivi.
+
+Clip: clip_01.mp4
+Domanda 1: Un uomo mostra un Benelli M1 Super 90, un fucile semi-automatico, esprimendo entusiasmo per questa nuova arma.
+Domanda 2: Benelli M1 Super 90.
+Domanda 3: Viene detto che è un fucile semi-automatico.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Viene detto che Benelli produce armi fenomenali, indicando un giudizio positivo.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Viene espresso entusiasmo e apprezzamento generale, nessun difetto menzionato.
+
+Clip: clip_02.mp4
+Domanda 1: Un uomo parla del Benelli M1 Super 90 come un eccellente fucile da tiro, apprezzando l'azione fluida e la canna lunga.
+Domanda 2: Benelli M1 Super 90.
+Domanda 3: Si menziona l'azione Benelli molto fluida e la canna lunga che probabilmente contribuisce alle prestazioni.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Opinione positiva: fucile eccellente e piacevole da usare.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Viene espresso apprezzamento generale senza menzione di difetti.
+
+Clip: clip_03.mp4
+Domanda 1: Un uomo mostra un fucile con il calcio standard, spiegando che sono fucili surplus un po' usurati o "rough".
+Domanda 2: Informazione non esplicita sul modello, ma si parla di fucili surplus.
+Domanda 3: Si parla del calcio standard.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Viene detto che i fucili sono un po' usurati, "rough", quindi è un avviso sulle condizioni estetiche.
+Domanda 6: Sì, si menziona il calcio standard come accessorio offerto.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Viene evidenziato come difetto l'aspetto usurato o malridotto dei fucili surplus.
+
+Clip: clip_04.mp4
+Domanda 1: Un uomo parla della possibilità di personalizzare il fucile con una verniciatura personale e menziona che il fucile funziona bene e ha un buon prezzo.
+Domanda 2: Benelli (presumibilmente M1 Super 90, dato il contesto).
+Domanda 3: Viene detto che è un fucile Benelli che funziona molto bene e ha un buon prezzo.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Opinione positiva sulle prestazioni e sul prezzo.
+Domanda 6: Sì, si menziona la possibilità di applicare una propria verniciatura personalizzata.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Nessun difetto menzionato, solo aspetti positivi e possibilità di personalizzazione.
+
+Clip: clip_05.mp4
+Domanda 1: Un uomo annuncia un giveaway di un fucile FN Scar calibro 7.62 NATO e mostra un video demo del tiro dal vivo.
+Domanda 2: FN Scar, calibro 7.62 NATO.
+Domanda 3: Viene specificato il calibro 7.62 NATO.
+Domanda 4: Sì, viene menzionato un demo di tiro dal vivo.
+Domanda 5: Viene definito un fucile "bellissimo" e "divertente".
+Domanda 6: Informazione non disponibile.
+Domanda 7: Sì, è mostrato un test di tiro dal vivo (live fire demo).
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Solo commenti positivi sul fucile.
+
+Clip: clip_06.mp4
+Domanda 1: Un uomo parla dei tiratori "three gun" che usano principalmente calci standard e esprime interesse a provarli dopo aver usato un fucile con calcio standard.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Viene menzionato il calcio standard (non tipo pistola) usato dai tiratori "three gun".
+Domanda 4: Informazione non disponibile.
+Domanda 5: L'uomo sembra interessato positivamente al calcio standard.
+Domanda 6: Sì, si menziona il tipo di calcio come modifica/accessorio.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Viene fatto un confronto implicito tra calcio standard e calcio tipo pistola.
+Domanda 9: Viene menzionato il tiro "three gun" come utilizzo.
+Domanda 10: Nessun pregio o difetto esplicitamente menzionato, ma interesse verso il calcio standard.
+
+Clip: Totale Video
+Domanda 1: In tutte le clip viene mostrato un uomo che presenta e parla di vari fucili, principalmente Benelli M1 Super 90 e FN Scar, mostrando anche demo di tiro e possibilità di personalizzazione.
+Domanda 2: I modelli menzionati sono Benelli M1 Super 90 e FN Scar calibro 7.62 NATO.
+Domanda 3: Vengono descritte alcune caratteristiche tecniche: azione molto fluida (Benelli), semi-automatico, calibro 7.62 NATO (FN Scar), canna lunga, calcio standard o tipo pistola.
+Domanda 4: In alcune clip viene mostrato o menzionato il funzionamento pratico come il blocco del caricatore e un demo di tiro dal vivo (FN Scar).
+Domanda 5: I commenti sulle prestazioni sono tutti positivi, sottolineando fluidità, funzionamento impeccabile e divertimento nel tiro.
+Domanda 6: Si menzionano accessori/modifiche come il calcio standard, verniciature personalizzate e tipi di calcio usati nei "three gun".
+Domanda 7: Vengono mostrati test di tiro o demo di tiro dal vivo, in particolare per l’FN Scar.
+Domanda 8: Viene fatto un confronto implicito tra tipi di calcio (standard vs pistola) e si parla di surplus con condizioni diverse.
+Domanda 9: Gli utilizzi menzionati includono tiro competitivo "three gun", e implicitamente uso generale e da collezione per fucili surplus.
+Domanda 10: Vengono menzionati pregi come la fluidità dell’azione, funzionamento impeccabile e divertimento; come difetti solo l’aspetto usurato di fucili surplus.

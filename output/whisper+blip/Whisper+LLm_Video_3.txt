@@ -1,0 +1,95 @@
+Clip: clip_00.mp4
+Domanda 1: Un uomo mostra e tiene in mano un fucile, parlando del prezzo e della qualità dei fucili in un certo range di prezzo.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Viene detto che non serve spendere troppo, ma non bisogna andare troppo basso; si parla di fasce di prezzo tra 400 e 500 dollari.
+Domanda 4: No, non viene mostrato il funzionamento pratico del fucile.
+Domanda 5: Si suggerisce che i fucili in fascia media sono "scelte abbastanza buone".
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Si fa un confronto implicito tra fasce di prezzo, ma non tra modelli specifici.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Si parla solo di costo e qualità generale, senza elencare pregi o difetti specifici.
+
+Clip: clip_01.mp4
+Domanda 1: Un uomo tiene un fucile su un tavolo e descrive una caratteristica tecnica relativa alla grande apertura di espulsione.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Sì, si descrive la presenza di una "large ejection port" che facilita l’espulsione di cartucce da 2 e 3/4 di pollice, contribuendo all'affidabilità con caricatori corti.
+Domanda 4: No, non si vede direttamente il funzionamento, ma si descrive come la grande apertura aiuti l’espulsione.
+Domanda 5: Si suggerisce che la caratteristica tecnica rende l’arma affidabile con caricatori corti.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Non ci sono pregi e difetti esplicitamente dichiarati, ma si evidenzia un pregio relativo all’affidabilità.
+
+Clip: clip_02.mp4
+Domanda 1: Un uomo parla di un fucile con stock fisso, senza opzioni di modifica.
+Domanda 2: Viene menzionato il modello "Supernova" come confronto.
+Domanda 3: Si dice che il fucile ha lo stesso funzionamento essenziale, con magazine cut off e caratteristiche base simili.
+Domanda 4: No, non si mostra il funzionamento pratico ma si descrivono alcune caratteristiche tecniche.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Si menziona la configurazione fissa dello stock, senza possibilità di cambio.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Sì, si fa un confronto con il modello "Supernova".
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_03.mp4
+Domanda 1: Un uomo descrive il sistema di cambio rapido delle munizioni in un fucile, con un meccanismo semplice e affidabile.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Sì, si parla di un sistema che permette di cambiare tipo di cartuccia senza inceppamenti e con un semplice funzionamento del pump action.
+Domanda 4: Sì, viene descritto il funzionamento pratico del pump e il riarmo del tubo munizioni.
+Domanda 5: Si sottolinea la semplicità e affidabilità del sistema.
+Domanda 6: Si menziona la presenza di una sicura standard.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Si evidenziano pregi quali semplicità e affidabilità del meccanismo.
+
+Clip: clip_04.mp4
+Domanda 1: Un uomo mostra un fucile e descrive dettagli relativi a montaggi per cinghie e smontaggio di parti come il guardamano.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Sì, si parla di sling swivel mount (attacchi per cinghie) anteriori e posteriori e di una piccola estensione sul tappo del caricatore per facilitare lo smontaggio.
+Domanda 4: No, non viene mostrato il funzionamento pratico.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Sì, si menzionano accessori per montaggio cinghie e componenti smontabili.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_05.mp4
+Domanda 1: Un uomo parla della fascia di prezzo tra 200 e 500 dollari e suggerisce che queste armi sono valide alternative a quelle più costose.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Non ci sono dettagli tecnici specifici.
+Domanda 4: No.
+Domanda 5: Viene detto che valgono la pena di essere considerate se si cerca qualità senza spendere troppo.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Si confronta implicitamente la fascia media con quella molto costosa e quella economica.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Si parla di un buon rapporto qualità-prezzo senza entrare in dettagli specifici su pregi o difetti.
+
+Clip: clip_06.mp4
+Domanda 1: Un uomo mostra un fucile e spiega alcune differenze di costruzione e posizioni degli attacchi per la cinghia e il tipo di calcio e ricevitore.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Sì, si descrive che il ricevitore ha un aspetto leggermente diverso, con attacchi per cinghia sul frontale e sui lati del calcio, e un buon calcio in gomma anti rinculo.
+Domanda 4: No, non si mostra direttamente il funzionamento.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Sì, si menzionano sling swivel mounts e un buon calcio in gomma.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Si fa un confronto tra due versioni o modelli simili.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: Totale Video (considerando tutte le clip insieme)
+Domanda 1: Nel video complessivamente, un uomo mostra e descrive vari fucili, parlando di caratteristiche tecniche, configurazioni, fasce di prezzo e dettagli di montaggio.
+Domanda 2: Il modello specifico "Supernova" viene menzionato, ma per gli altri modelli non ci sono nomi chiari.
+Domanda 3: Vengono descritte caratteristiche tecniche come apertura di espulsione larga, stock fisso, meccanismo pump affidabile, attacchi per cinghia, e configurazioni di calcio e ricevitore.
+Domanda 4: Viene descritto il funzionamento pratico del meccanismo pump e l’espulsione, ma non si mostrano direttamente caricamento o sparo.
+Domanda 5: Ci sono commenti positivi sul rapporto qualità-prezzo, affidabilità e semplicità del funzionamento.
+Domanda 6: Si menzionano accessori/modifiche come attacchi per cinghie, estensione sul tappo caricatore, e parti smontabili.
+Domanda 7: Non sono mostrati test di tiro o prove pratiche su bersagli.
+Domanda 8: Ci sono confronti tra fasce di prezzo e tra modelli simili (es. Supernova e altro).
+Domanda 9: Non sono specificate indicazioni precise sull’uso previsto (es. caccia o tiro sportivo).
+Domanda 10: Vengono evidenziati pregi come affidabilità, semplicità, e buon rapporto qualità-prezzo; difetti non sono discussi.

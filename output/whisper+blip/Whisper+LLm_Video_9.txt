@@ -1,0 +1,96 @@
+Clip: clip_00.mp4
+Domanda 1: In questa clip un uomo tiene e mira con un fucile, mostrando come maneggiarlo.
+Domanda 2: Viene menzionato un "Rugger gun" nella descrizione, ma non è chiaro il modello esatto.
+Domanda 3: Informazione non disponibile.
+Domanda 4: No, non sono mostrati dettagli sul funzionamento pratico come caricamento o sparo.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_01.mp4
+Domanda 1: La clip mostra immagini di cani, un uomo che tiene un fucile con un mirino, e immagini di fucili con riferimenti FBI e un "gun club".
+Domanda 2: Informazione non disponibile (nessun modello chiaro descritto).
+Domanda 3: Informazione non disponibile.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Viene mostrato un fucile con un mirino (scope).
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_02.mp4
+Domanda 1: Un uomo in varie scene mira e tiene un fucile; altre immagini mostrano persone con maschera a gas e in abiti bianchi.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Informazione non disponibile.
+Domanda 4: No, non è mostrato il funzionamento pratico.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_03.mp4
+Domanda 1: Viene presentato il Benelli Supernova Tactical Shotgun, una carabina a pompa; un uomo in camicia blu mostra e mira il fucile.
+Domanda 2: Benelli Supernova Tactical Shotgun.
+Domanda 3: Viene detto che la linea Nova e Supernova è costituita da fucili a pompa (pump shotgun).
+Domanda 4: Informazione parziale: si vedono momenti di mira e manipolazione, ma non chiaramente caricamento o sparo.
+Domanda 5: Non ci sono commenti espliciti, ma la presentazione è positiva (si parla di modelli tattici).
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Viene accennato l'uso tattico.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_04.mp4
+Domanda 1: Un uomo descrive vari setup del fucile, inclusi settaggi per caccia, tiro a volo (skeet and trap) e difesa personale.
+Domanda 2: Probabilmente ancora Benelli Supernova (riferito dal contesto precedente).
+Domanda 3: Sono menzionati setup diversi per tipologie di tiro (caccia, skeet, difesa).
+Domanda 4: Si fa cenno a un focus su difesa personale e a prove di tiro, ma non ci sono dettagli espliciti.
+Domanda 5: Si accenna a preferenze per armi da difesa, ma opinioni dettagliate non disponibili.
+Domanda 6: Si parla di accessori e configurazioni diverse per i fucili.
+Domanda 7: Si menzionano prove di tiro, ma senza dettagli precisi su bersagli o risultati.
+Domanda 8: Vengono confrontati i setup per vari usi, implicito confronto tra versioni.
+Domanda 9: Uso previsto include caccia, tiro sportivo e difesa personale.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_05.mp4
+Domanda 1: Clip con istruzioni su come usare un fucile Ruger o una shotgun, con immagini di armi, munizioni e accessori.
+Domanda 2: Ruger (modello specifico non chiaro).
+Domanda 3: Si parla di ricevitore forato e predisposto per montare rail per mira e caricatore laterale (side saddle).
+Domanda 4: Sì, si mostrano dettagli su come montare accessori e il funzionamento del fucile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Sì, si parla di rail per mirini, caricatore laterale, e di accessori Mesa Tactical.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_06.mp4
+Domanda 1: Video di presentazione e invito a iscriversi, con immagini di fucili, armi e persone che li tengono in mano.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Informazione non disponibile.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Vengono mostrati fucili con caricatori, mirini e pistole a terra.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: Totale Video
+Domanda 1: Nel complesso, le clip mostrano principalmente uomini che tengono, mirano e discutono fucili e shotgun, con alcune clip specifiche su modelli Benelli Supernova e Ruger, inclusi setup e accessori. Alcune clip mostrano scene meno chiare o immagini di animali senza attinenza.
+Domanda 2: I modelli esplicitamente menzionati sono il Benelli Supernova Tactical Shotgun e un Ruger, senza specifica esatta del modello Ruger.
+Domanda 3: Vengono descritti dettagli tecnici come il funzionamento a pompa per il Benelli Supernova, ricevitore forato, possibilità di montare rail e caricatori laterali per il Ruger.
+Domanda 4: Alcune clip mostrano persone che maneggiano e mirano i fucili, con accenni a montaggio accessori, ma non ci sono sequenze chiare di sparo o caricamento dettagliato.
+Domanda 5: Non sono presenti commenti dettagliati sulle prestazioni, ma l’attenzione è per l’uso tattico e di difesa, con un tono generalmente positivo.
+Domanda 6: Sì, sono mostrati o menzionati accessori come mirini, rail, caricatori laterali, e configurazioni diverse per caccia, skeet, e difesa personale.
+Domanda 7: Non sono evidenti prove di tiro con risultati specifici su bersagli.
+Domanda 8: Viene fatto un confronto tra setup per usi differenti (caccia, tiro sportivo, difesa), ma non tra modelli differenti.
+Domanda 9: Gli usi previsti comprendono caccia, tiro sportivo (skeet, trap) e difesa personale.
+Domanda 10: Informazione non disponibile o assente una valutazione esplicita di pregi e difetti.
+

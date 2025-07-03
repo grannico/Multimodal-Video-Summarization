@@ -1,0 +1,95 @@
+Clip: clip_00.mp4
+Domanda 1: Un uomo in camicia nera e cappello tiene e mostra un fucile, parla di un caricatore a tamburo per l’M2 con capacità di circa 30 colpi.
+Domanda 2: Viene menzionato il modello M2.
+Domanda 3: Sì, viene descritto un caricatore a tamburo (drum magazine) che si aggancia alla M2, probabilmente con caricamento automatico o elicoidale. Capacità circa 30 colpi.
+Domanda 4: No, non si descrive il funzionamento pratico dettagliato, solo il caricatore.
+Domanda 5: Implicito un commento positivo sul caricatore e sull’esperienza di sparo con esso, senza problemi durante l’uso.
+Domanda 6: Sì, è mostrato un caricatore a tamburo come accessorio.
+Domanda 7: Non sono menzionati test di tiro o risultati specifici.
+Domanda 8: No, nessun confronto diretto con altri modelli.
+Domanda 9: Non esplicitamente menzionato l’uso previsto.
+Domanda 10: Non si menzionano pregi o difetti espliciti, ma si capisce che il caricatore è un vantaggio.
+
+Clip: clip_01.mp4
+Domanda 1: Un uomo tiene un fucile in mano e parla rivolgendosi al pubblico, ringraziando e promuovendo una maglietta del canale.
+Domanda 2: Informazione non disponibile.
+Domanda 3: Informazione non disponibile.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Informazione non disponibile.
+Domanda 10: Informazione non disponibile.
+
+Clip: clip_02.mp4
+Domanda 1: Un uomo parla di un fucile Benelli, definendolo un modello leggendario e affidabile, mostra e spara con munizioni military buck shot (doppio zero).
+Domanda 2: Viene menzionato un fucile Benelli, ma il modello esatto non è specificato.
+Domanda 3: Viene detto che è un design legacy per Benelli, indicato come "workhorse". Viene menzionata la munizione military buck shot doppio zero.
+Domanda 4: Sì, viene mostrato l’uso pratico sparando con munizioni specifiche (military buck shot).
+Domanda 5: Commento positivo, considerato un fucile fantastico e affidabile, con una reputazione duratura.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Sì, sparo pratico con munizioni specifiche, ma risultati precisi non descritti.
+Domanda 8: No confronto esplicito con altri modelli.
+Domanda 9: Indicato come "workhorse", quindi probabilmente uso pratico generico, forse caccia o difesa (implicito).
+Domanda 10: Pregi: affidabilità e design duraturo. Difetti non menzionati.
+
+Clip: clip_03.mp4
+Domanda 1: Un uomo parla di un fucile con calcio pistol grip, ma preferisce un calcio dritto comfort tech, definendolo bilanciato, leggero e ideale come fucile tattico personale.
+Domanda 2: Menzionato modello M2.
+Domanda 3: Sì, descritto come leggero, con calcio comfort tech dritto, bilanciato.
+Domanda 4: No, non è mostrato un funzionamento pratico.
+Domanda 5: Commento positivo sulla leggerezza, bilanciamento e utilità tattica.
+Domanda 6: Viene menzionato il calcio comfort tech come componente, confronto con calcio pistol grip.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Sì, confronto tra calcio pistol grip e calcio comfort tech dritto.
+Domanda 9: Indicato per difesa personale e uso tattico, adatto per muoversi in fuoristrada o ATV.
+Domanda 10: Pregi: bilanciamento, leggerezza, utilità tattica. Difetti: il calcio pistol grip è considerato peggiore.
+
+Clip: clip_04.mp4
+Domanda 1: L’uomo parla di mantenere il fucile originale senza modifiche, con sling e utilizzo di choke avvitabili, sta sparando con choke modificato e munizioni flight control.
+Domanda 2: M2 (sottinteso) o shotgun (non specificato).
+Domanda 3: Sì, utilizzo di choke avvitabili, choke modificato, munizioni flight control.
+Domanda 4: Sì, sparo effettuato su bersagli (anguria), menzione delle munizioni slug.
+Domanda 5: Commenti positivi sull’efficacia del choke modificato e delle munizioni.
+Domanda 6: Sì, menzionato l’uso del choke modificato e sling come accessori.
+Domanda 7: Sì, test di tiro su angurie con munizioni slug.
+Domanda 8: Non menzionato confronto diretto con altri modelli.
+Domanda 9: Uso tattico/difesa, implicito.
+Domanda 10: Pregi: efficacia del choke e delle munizioni; difetti: modifiche non gradite, preferisce mantenerlo originale.
+
+Clip: clip_05.mp4
+Domanda 1: L’uomo parla di M2 come fucile semi-automatico affidabile e popolare nelle competizioni three-gun, economico e molto usato.
+Domanda 2: M2.
+Domanda 3: Non molti dettagli tecnici specifici, solo che è un auto loader molto affidabile e conveniente.
+Domanda 4: No descrizione del funzionamento pratico.
+Domanda 5: Commenti molto positivi sull’affidabilità e diffusione nelle competizioni.
+Domanda 6: Informazione non disponibile.
+Domanda 7: No test di tiro espliciti.
+Domanda 8: Non menzionato confronto con altri modelli, ma menzionata la popolarità nel mondo competitivo.
+Domanda 9: Uso prevalentemente sportivo (three-gun e competizioni).
+Domanda 10: Pregi: affidabilità e prezzo conveniente; difetti non menzionati.
+
+Clip: clip_06.mp4
+Domanda 1: Parla di modelli M2 "neutered" (limitati) che arrivano nel paese, menzionando un modello per forze dell’ordine.
+Domanda 2: M2 modello per forze dell’ordine.
+Domanda 3: Non sono specificati dettagli tecnici, solo che è un modello speciale per la legge.
+Domanda 4: Informazione non disponibile.
+Domanda 5: Informazione non disponibile.
+Domanda 6: Informazione non disponibile.
+Domanda 7: Informazione non disponibile.
+Domanda 8: Informazione non disponibile.
+Domanda 9: Uso previsto per applicazioni di polizia/forze dell’ordine.
+Domanda 10: Informazione non disponibile.
+
+Clip: Totale Video
+Domanda 1: Nel complesso, il video mostra un uomo che presenta e discute diversi aspetti di un fucile modello M2 (Benelli), parlando del design, accessori come caricatori a tamburo e choke, spari pratici con munizioni diverse, uso tattico, sportivo e per forze dell’ordine.
+Domanda 2: Il modello principale discusso è il fucile M2 di Benelli.
+Domanda 3: Sono descritti dettagli tecnici quali il caricatore a tamburo da 30 colpi, il calcio comfort tech rispetto al calcio pistol grip, choke avvitabili e munizioni (military buck shot, slug, flight control).
+Domanda 4: Sì, sono mostrati spari pratici con diverse munizioni e test su bersagli (angurie), anche se non sempre dettagliati.
+Domanda 5: I commenti sono prevalentemente positivi, sottolineando affidabilità, leggerezza, bilanciamento e versatilità.
+Domanda 6: Vengono menzionati caricatori a tamburo, choke modificati, sling, e calci diversi come accessori o modifiche.
+Domanda 7: Ci sono test di tiro su bersagli naturali (angurie) e uso pratico con munizioni specifiche.
+Domanda 8: Sono fatti alcuni confronti tra calci diversi (pistol grip vs comfort tech), ma non tra modelli diversi di fucili.
+Domanda 9: L’uso previsto include tattico/personale, competizioni sportive (three-gun), polizia/forze dell’ordine e uso generico affidabile.
+Domanda 10: Vengono evidenziati pregi come affidabilità, design duraturo, leggerezza e bilanciamento; difetti riguardano l’idea di non modificare troppo il fucile e la preferenza per certe configurazioni (calcio dritto).
